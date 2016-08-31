@@ -110,12 +110,9 @@ P.info2	{text-align:right;
 	 margin-top:7px;
 	 margin-bottom:7px}
 
-HR	{height:5px;
-	 border-style:solid;
-	 border-width:1px;
-	 border-color:#f0750a;
-	 background-color:#f0750a;
-	 color:#f0750a}
+HR	{height:7px;
+	 border-style:none;
+	 background-color:#f0750a}
 
 table.errata { margin:0 0 20 0; }
 table.errata th {
