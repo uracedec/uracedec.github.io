@@ -114,15 +114,15 @@ HR	{height:7px;
 	 border-style:none;
 	 background-color:#f0750a}
 
-table.errata { margin:0 0 20 0; }
+table.errata { margin:0px 0px 20px 0px; }
 table.errata th {
-	padding:4 0 4 12;
+	padding:4px 0px 4px 12px;
 	text-align:left;
 	vertical-align:middle;
 	width:2em;
 }
 table.errata td {
-	padding:4 0 4 0;
+	padding:4px 0px 4px 0px;
 }
 
 u {
